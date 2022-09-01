@@ -12,7 +12,7 @@ npm start
 
 Use the following endpoints to get or create the resources whatever you want.
 
-##### baseUrl = http://localhost:3002/api
+##### baseUrl = http://localhost:3007/api
 
 | Method | URL |
 | ------ | ------ |
